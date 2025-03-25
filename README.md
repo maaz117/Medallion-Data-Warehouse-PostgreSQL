@@ -1,5 +1,3 @@
-"Medallion-Data-Warehouse-PostgreSQL" 
-
 # **Medallion Data Warehouse: Scalable Analytics with PostgreSQL**
 
 ## **Overview**
